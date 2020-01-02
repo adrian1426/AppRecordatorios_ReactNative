@@ -23,7 +23,7 @@ class Index extends React.Component {
         </View>
 
         <Button
-          titulo="AgregarRecordatorio"
+          titulo="Agregar Recordatorio"
           onPress={this.onPressModal}
         />
 
